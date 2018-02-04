@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">thatime</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="bottom_home">홈</string>
+    <string name="bottom_map">맵</string>
+    <string name="bottom_register">등록</string>
+    <string name="bottom_list">조회</string>
+    <string name="bottom_setting">설정</string>
+
+
+    <string name="rgst_init_title">제목을 입력해주세요.</string>
+    <string name="rgst_init_memo">내용을 입력해주세요.</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="str_done">완료</string>
+
+</resources>
